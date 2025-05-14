@@ -1,0 +1,8 @@
+Para poner en funcionamiento del codigo favor seguir las siguientes instrucciones
+
+Ponga los archivos que va a encontrar, en una carpeta donde se encuentren todos juntos (3 archivos)
+y al momento de organizarlos en visual organicelos de la siguiente manera: 
+
+main.py
+Cuenta.py
+Menu.py
